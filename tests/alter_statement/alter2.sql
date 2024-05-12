@@ -1,0 +1,3 @@
+CREATE TABLE test;
+ALTER TABLE test ADD text VARCHAR(255), value INT;
+SHOW TABLES;

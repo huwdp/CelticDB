@@ -1,0 +1,10 @@
+CREATE TABLE test;
+ALTER TABLE test ADD id INT;
+ALTER TABLE test ADD text VARCHAR(255);
+INSERT INTO test (id, text) VALUES (1, 'hello1');
+INSERT INTO test (id, text) VALUES (1, 'hello1');
+INSERT INTO test (id, text) VALUES (2, 'hello2');
+INSERT INTO test (id, text) VALUES (2, 'hello2');
+INSERT INTO test (id, text) VALUES (3, 'hello3');
+SELECT DISTINCT * FROM test;
+SELECT DISTINCT text, id FROM test;

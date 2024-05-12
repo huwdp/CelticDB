@@ -1,0 +1,4 @@
+Parser: Create table named 'test'
+Parser: Drop table named 'test'
+Command: Create statement
+Command: Drop statement

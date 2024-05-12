@@ -1,0 +1,12 @@
+Parser: Create table named 'test1'
+Parser: Create table named 'test2'
+Parser: Show tables
+Command: Create statement
+Command: Create statement
+Command: Show tables statement
+Table name: test1
+	Row count: 0
+	Column count: 0
+Table name: test2
+	Row count: 0
+	Column count: 0

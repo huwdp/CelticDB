@@ -1,0 +1,11 @@
+Parser: Create table named 'test'
+Parser: Insert into table named 'test'
+Parser: Select from table named 'test'
+Command: Create statement
+Command: Insert statement
+Command: Select statement
+Results:
+
+ id              | text            |
+ 1               | 'hello1'        |
+

@@ -1,0 +1,34 @@
+Parser: Create table named 'test'
+Parser: Alter table named 'test'
+Parser: Alter table named 'test'
+Parser: Insert into table named 'test'
+Parser: Insert into table named 'test'
+Parser: Insert into table named 'test'
+Parser: Insert into table named 'test'
+Parser: Insert into table named 'test'
+Parser: Select from table named 'test'
+Parser: Select from table named 'test'
+Command: Create statement
+Command: Alter statement
+Command: Alter statement
+Command: Insert statement
+Command: Insert statement
+Command: Insert statement
+Command: Insert statement
+Command: Insert statement
+Command: Select statement
+Results:
+
+ id              | text            |
+ 1               | 'hello1'        |
+ 2               | 'hello2'        |
+ 3               | 'hello3'        |
+
+Command: Select statement
+Results:
+
+ text            | id              |
+ 'hello1'        | 1               |
+ 'hello2'        | 2               |
+ 'hello3'        | 3               |
+

@@ -1,0 +1,20 @@
+Parser: Create table named 'test'
+Parser: Alter table named 'test'
+Parser: Insert into table named 'test'
+Parser: Show tables
+Parser: Alter table named 'test'
+Parser: Insert into table named 'test'
+Parser: Show tables
+Command: Create statement
+Command: Alter statement
+Command: Insert statement
+Command: Show tables statement
+Table name: test
+	Row count: 1
+	Column count: 1
+Command: Alter statement
+Command: Insert statement
+Command: Show tables statement
+Table name: test
+	Row count: 2
+	Column count: 2
